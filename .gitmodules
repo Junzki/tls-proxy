@@ -1,0 +1,6 @@
+[submodule "uthash"]
+	path = uthash
+	url = https://github.com/troydhanson/uthash
+[submodule "base64"]
+	path = base64
+	url = https://github.com/aklomp/base64
