@@ -2,3 +2,10 @@
 *.h
 tls-server
 tls-client
+
+# CMake Builds
+[Bb]uild
+
+# Local editor's
+.vscode/
+.idea/
